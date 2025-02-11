@@ -1,1 +1,0 @@
-var json_AFACO_2 = {"type":"FeatureCollection","name":"AFACO_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","nom":"ASICO_37"},"geometry":{"type":"Point","coordinates":[0.690457864676948,47.254548394475322]}}]}
